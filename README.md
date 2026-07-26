@@ -58,12 +58,12 @@ The following models were developed and evaluated:
 
 ## Model Performance
 
-| Model | Accuracy |
-|--------|---------:|
-| Logistic Regression | **98.25%** |
-| Support Vector Machine | **97.37%** |
-| Random Forest | **95.61%** |
-| Decision Tree | **91.23%** |
+| Model | Accuracy | Precision | Recall | F1-score |
+|--------|---------:|----------:|-------:|---------:|
+| Logistic Regression | 98.25% | 0.98 | 0.98 | 0.98 |
+| Support Vector Machine | 97.37% | 0.97 | 0.97 | 0.97 |
+| Random Forest | 95.61% | 0.96 | 0.95 | 0.95 |
+| Decision Tree | 91.23% | 0.90 | 0.92 | 0.91 |
 
 ## Results Summary
 
@@ -117,6 +117,17 @@ breast-cancer-prediction/
 - Seaborn
 - Scikit-learn
 - Jupyter Notebook
+
+- ## Skills Demonstrated
+
+- Data Cleaning
+- Exploratory Data Analysis (EDA)
+- Data Visualization
+- Machine Learning
+- Model Evaluation
+- Feature Importance Analysis
+- ROC Curve Analysis
+- Healthcare Data Analytics
 
 ---
 
